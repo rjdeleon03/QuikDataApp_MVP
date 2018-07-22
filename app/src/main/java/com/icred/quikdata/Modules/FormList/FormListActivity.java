@@ -1,7 +1,9 @@
-package com.icred.quikdata;
+package com.icred.quikdata.Modules.FormList;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+
+import com.icred.quikdata.R;
 
 public class FormListActivity extends AppCompatActivity {
 
